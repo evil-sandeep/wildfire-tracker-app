@@ -41,5 +41,22 @@ position: relative;
   border-radius: 10px;
   font-size: 15px;
   color: wheat;
+}
+.header{
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(40, 0 , 0);
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.header-icon{
+  color: rgb(114, 3, 3);
+}
 
+.header h1{
+  text-rendering: geometricPrecision;
+  color: white;
+  font-family: 'Courier New', Courier, monospace;
 }
